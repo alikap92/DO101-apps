@@ -1,0 +1,6 @@
+annotations:
+  app.openshift.io/vcs-ref: scale
+  app.openshift.io/vcs-uri: 'https://github.com/yourgituser/DO101-apps'
+  openshift.io/host.generated: 'true'
+  haproxy.router.openshift.io/balance: roundrobin
+  haproxy.router.openshift.io/disable_cookies: 'true'
